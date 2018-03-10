@@ -1,0 +1,25 @@
+{
+  "name": "4land",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "webpack",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.40",
+    "@types/react-dom": "^15.5.7",
+    "awesome-typescript-loader": "^4.0.1",
+    "source-map-loader": "^0.2.3",
+    "style-loader": "^0.20.3",
+    "typescript": "^2.7.2",
+    "typings-for-css-modules-loader": "^1.7.0",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.11"
+  }
+}
